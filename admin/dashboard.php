@@ -15,7 +15,7 @@ $result = mysqli_query($conn, "SELECT * FROM properties ORDER BY id DESC LIMIT 3
     <div class="sidebar">
         <div class="logo">
             <i class="fa-solid fa-house-chimney"></i>
-            <span>Bhagwati Properties</span>
+            <span> MyProperties</span>
         </div>
         <ul class="menu">
             <li><a href="dashboard.php"><i class="fa-solid fa-grip"></i> Dashboard</a></li>
