@@ -386,7 +386,7 @@
         <i class="fa-solid fa-bars" id="menu"></i>
         <div class="logo">
             <i class="fa-solid fa-house-chimney"></i>
-            <span>Bhagwati Properties</span>
+            <span>MyProperties</span>
         </div>
         <nav class="navbar" id="navList">
             <a href="#home" class="nav-link">Home</a>
@@ -691,7 +691,7 @@
             <i class="fa-solid fa-house-chimney"></i>
             <span>Bhagwati Property</span>
         </div>
-        <p>© 2026 <span>Bhagwati Property</span> | Designed by <span> TechKraftiers Digital</span></p>
+        <p>© 2026 <span> MyProperty</span> | Designed by <span> Mrunali Mohite </span></p>
     </footer>
     <!--Script-->
     <script src="script.js"></script>
