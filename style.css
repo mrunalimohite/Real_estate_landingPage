@@ -327,7 +327,6 @@ section{
 }
 .sell-icon {
     display: flex;
-    flex-direction: column;
     gap: 0.8rem; /* Vertical space between each feature line */
     margin-bottom: 1.5rem;
 }
@@ -335,7 +334,7 @@ section{
 .icon-text { 
     display: flex;
     align-items: center;
-    gap: 1.2rem; /* Space between the bedroom/area icon and the text */
+    gap: .6rem; /* Space between the bedroom/area icon and the text */
     font-size: 1.2rem;
     color: #555;
 }
