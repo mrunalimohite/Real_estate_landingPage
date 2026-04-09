@@ -386,7 +386,7 @@
         <i class="fa-solid fa-bars" id="menu"></i>
         <div class="logo">
             <i class="fa-solid fa-house-chimney"></i>
-            <span>MyProperties</span>
+            <span>Bhagwati Properties</span>
         </div>
         <nav class="navbar" id="navList">
             <a href="#home" class="nav-link">Home</a>
@@ -396,6 +396,7 @@
             <a href="#features" class="nav-link">features</a>
             <a href="#contact" class="nav-link">Contact</a>
             <a href="post_property.php">Post Property</a>
+            <a href="#">Blogs</a>
         </nav>
         <div class="signUp" id="sign">
             <a href="login.html" class="login">Login </a>
@@ -423,7 +424,7 @@
             <h1><span>Our </span>Services</h1>
             <div class="servise-boxes">
                 <div class="box">
-                    <i class="fa-solid fa-house-lock"></i>
+                    <i class="fa-  fa-house-lock"></i>
                     <h3>Property Insurance</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur a magnam nihil provident nulla in ut debitis asperiores, deleniti quaerat!</p>
                 </div>
@@ -518,15 +519,13 @@
                         <!-- FEATURES -->
                         <div class="sell-icon">
                             <span class="icon-text">
-                                <i class="fa-solid fa-bed"></i> <?= $row['rooms']; ?> BHK
+                                <i class="fa-solid fa-bed"></i><?= $row['rooms']; ?>BHK
                             </span>
-
                             <span class="icon-text">
-                                <i class="fa-solid fa-bath"></i> <?= $row['bathrooms']; ?>
+                                <i class="fa-solid fa-bath"></i><?= $row['bathrooms']; ?>
                             </span>
-
                             <span class="icon-text">
-                                <i class="fa-solid fa-ruler-combined"></i> <?= $row['area']; ?> sqft
+                                <i class="fa-solid fa-ruler-combined"></i><?= $row['area']; ?>sqft
                             </span>
                         </div>
                         <!-- PRICE -->
@@ -570,15 +569,15 @@
                         </p>
                         <div class="sell-icon">
                             <span class="icon-text">
-                                <i class="fa-solid fa-bed"></i> <?= $row['rooms']; ?> BHK
+                                <i class="fa-solid fa-bed"></i><?= $row['rooms']; ?>BHK
                             </span>
 
                             <span class="icon-text">
-                                <i class="fa-solid fa-bath"></i> <?= $row['bathrooms']; ?>
+                                <i class="fa-solid fa-bath"></i><?= $row['bathrooms']; ?>
                             </span>
 
                             <span class="icon-text">
-                                <i class="fa-solid fa-ruler-combined"></i> <?= $row['area']; ?> sqft
+                                <i class="fa-solid fa-ruler-combined"></i><?= $row['area']; ?>sqft
                             </span>
                         </div>
                         <!-- PRICE -->
@@ -691,7 +690,7 @@
             <i class="fa-solid fa-house-chimney"></i>
             <span>Bhagwati Property</span>
         </div>
-        <p>© 2026 <span> MyProperty</span> | Designed by <span> Mrunali Mohite </span></p>
+        <p>© 2026 <span>Bhagwati Property</span> | Designed by <span> TechKraftiers Digital</span></p>
     </footer>
     <!--Script-->
     <script src="script.js"></script>
