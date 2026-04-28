@@ -45,11 +45,14 @@ http://localhost/real_eastate_landing/
 ## 📱 Mobile UI Preview
 The mobile interface features a specialized sidebar where the menu button attaches to the sidebar edge and slides in tandem, ensuring the logo remains visible and the user experience remains fluid.
 ## 📸 Preview
-
+###Frontend
 ![Frontend Landing Page Screenshot](frontend_langing_page.png)
-
-![Admin Page Screenshot](admin_page.php)
-![Add Property Page Screenshot](add_property.php)
-![Manage Property Page Screenshot](manage_property.php)
-![ User Message Page Screenshot](messagePage.php)
+### Admin Backend
+![Admin Page Screenshot](admin_page.png)
+### Add Propperty
+![Add Property Page Screenshot](add_property.png)
+### Manage Property 
+![Manage Property Page Screenshot](manage_property.png)
+### User Message
+![ User Message Page Screenshot](messagePage.png)
 
