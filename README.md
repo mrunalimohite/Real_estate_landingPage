@@ -46,8 +46,8 @@ http://localhost/real_eastate_landing/
 The mobile interface features a specialized sidebar where the menu button attaches to the sidebar edge and slides in tandem, ensuring the logo remains visible and the user experience remains fluid.
 
 ## 👨‍💻 Author
-Mrunali Mohite
-Frontend Developer
+- Mrunali Mohite
+- Frontend Developer
 
 ## 📸 Preview
 ###Frontend
