@@ -47,7 +47,7 @@ The mobile interface features a specialized sidebar where the menu button attach
 
 ## 👨‍💻 Author
 - Mrunali Mohite
-- Frontend Developer
+- website Developer
 
 ## 📸 Preview
 ###Frontend
